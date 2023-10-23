@@ -8,4 +8,8 @@
 Somewhere to put my Rocket Pool proposal analysis, summaries, and opinions.
 
 
-Rocket Pool Proposal Analysis (RPPA)
+# Rocket Pool Proposal Analysis (RPPA)
+- RPPA_10222023
+  - MC Budget Update Proposal
+  - RPL Staking Rework Proposal
+  - 2023-10 GMC Nomination
